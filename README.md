@@ -1,23 +1,16 @@
-# Hey there! I'm Piyush 🚀
-
-![GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHAwbHQ2OXdrMnBrajV6N2picWU0NmdzcG9vcmo5NTY1NWlncnZwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif)
+# Hey there! I'm Piyush 
 
 ## 👨‍💻 About Me:
-<table>
-<tr>
-<td>
-
-- Computer Science & Engineering undergrad
-- Passionate about software development and problem-solving
-- Currently exploring AI, Web Development, and Machine Learning
-- Love diving deep into backend systems and full-stack development
-
-</td>
-<td>
-<img src="[https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHAwbHQ2OXdrMnBrajV6N2picWU0NmdzcG9vcmo5NTY1NWlncnZwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif)" width="200"/>
-</td>
-</tr>
-</table>
+<div style="display: flex; align-items: center;">
+  <div>
+    
+- Computer Science & Engineering undergrad  
+- Passionate about software development and problem-solving  
+- Currently exploring AI, Web Development, and Machine Learning  
+- Love diving deep into backend systems and full-stack development  
+  </div>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHAwbHQ2OXdrMnBrajV6N2picWU0NmdzcG9vcmo5NTY1NWlncnZwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width="200" style="margin-left: 20px;"/>
+</div>
 
 ## 💻 Tech Stack:
 
@@ -45,9 +38,11 @@
 
 ### [UnityFund](https://github.com/sloppysaint/unityfund) 
 > A donation platform built with React and TailwindCSS
-### [Gibbly][https://github.com/sloppysaint/Gibblyweb]
+
+### [Gibbly](https://github.com/sloppysaint/Gibblyweb) 🎓
 > An extensive design of the Gibbly website, where teachers can create quizzes and students can play them.
-###[CarePulse][https://github.com/sloppysaint/CarePulse]
+
+### [CarePulse](https://github.com/sloppysaint/CarePulse) 🏥
 > CarePulse is a modern healthcare application designed to simplify patient registration, appointment booking, and doctor consultations.
 
 
