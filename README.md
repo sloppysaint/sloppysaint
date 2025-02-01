@@ -1,16 +1,14 @@
 # Hey there! I'm Piyush 
 
 ## 👨‍💻 About Me:
-<div style="display: flex; align-items: center;">
-  <div>
-    
+
+
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHAwbHQ2OXdrMnBrajV6N2picWU0NmdzcG9vcmo5NTY1NWlncnZwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width="310" />
+
 - Computer Science & Engineering undergrad  
 - Passionate about software development and problem-solving  
 - Currently exploring AI, Web Development, and Machine Learning  
-- Love diving deep into backend systems and full-stack development  
-  </div>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHAwbHQ2OXdrMnBrajV6N2picWU0NmdzcG9vcmo5NTY1NWlncnZwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width="200" style="margin-left: 20px;"/>
-</div>
+- Love diving deep into backend systems and full-stack development
 
 ## 💻 Tech Stack:
 
@@ -31,24 +29,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-blue?style=flat-square&logo=jquery)
 ![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-blue?style=flat-square&logo=tailwind-css)
-![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-black?style=flat-square)
+![SHADCN/UI](https://img.shields.io/badge/-shadcn/ui-black?style=flat-square)
 
 
-## 📌 Pinned Repositories:
-
-### [UnityFund](https://github.com/sloppysaint/unityfund) 
-> A donation platform built with React and TailwindCSS
-
-### [Gibbly](https://github.com/sloppysaint/Gibblyweb) 🎓
-> An extensive design of the Gibbly website, where teachers can create quizzes and students can play them.
-
-### [CarePulse](https://github.com/sloppysaint/CarePulse) 🏥
-> CarePulse is a modern healthcare application designed to simplify patient registration, appointment booking, and doctor consultations.
-
-
-
-
-📫 **Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/piyush-khattar-39b49a261/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/sloppysaint)
 
