@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me:
 
 
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHAwbHQ2OXdrMnBrajV6N2picWU0NmdzcG9vcmo5NTY1NWlncnZwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width="310" />
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHAwbHQ2OXdrMnBrajV6N2picWU0NmdzcG9vcmo5NTY1NWlncnZwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width="250" />
 
 - Computer Science & Engineering undergrad  
 - Passionate about software development and problem-solving  
