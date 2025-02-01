@@ -3,10 +3,21 @@
 ![GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHAwbHQ2OXdrMnBrajV6N2picWU0NmdzcG9vcmo5NTY1NWlncnZwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif)
 
 ## 👨‍💻 About Me:
+<table>
+<tr>
+<td>
+
 - Computer Science & Engineering undergrad
 - Passionate about software development and problem-solving
 - Currently exploring AI, Web Development, and Machine Learning
 - Love diving deep into backend systems and full-stack development
+
+</td>
+<td>
+<img src="[https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHAwbHQ2OXdrMnBrajV6N2picWU0NmdzcG9vcmo5NTY1NWlncnZwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif)" width="200"/>
+</td>
+</tr>
+</table>
 
 ## 💻 Tech Stack:
 
@@ -23,6 +34,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
+![Netlify](https://img.shields.io/badge/-Netlify-blue?style=flat-square&logo=netlify)
+![jQuery](https://img.shields.io/badge/-jQuery-blue?style=flat-square&logo=jquery)
 ![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-blue?style=flat-square&logo=tailwind-css)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-black?style=flat-square)
@@ -30,8 +43,12 @@
 
 ## 📌 Pinned Repositories:
 
-### [UnityFund](https://github.com/yourusername/unityfund) 🤝
+### [UnityFund](https://github.com/sloppysaint/unityfund) 
 > A donation platform built with React and TailwindCSS
+### [Gibbly][https://github.com/sloppysaint/Gibblyweb]
+> An extensive design of the Gibbly website, where teachers can create quizzes and students can play them.
+###[CarePulse][https://github.com/sloppysaint/CarePulse]
+> CarePulse is a modern healthcare application designed to simplify patient registration, appointment booking, and doctor consultations.
 
 
 
